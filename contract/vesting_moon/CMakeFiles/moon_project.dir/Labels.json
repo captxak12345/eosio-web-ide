@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/wax/vesting_moon/CMakeFiles/moon_project"
+		},
+		{
+			"file" : "/wax/vesting_moon/CMakeFiles/moon_project.rule"
+		},
+		{
+			"file" : "/wax/vesting_moon/CMakeFiles/moon_project-complete.rule"
+		},
+		{
+			"file" : "/wax/vesting_moon/moon_project-prefix/src/moon_project-stamp/moon_project-install.rule"
+		},
+		{
+			"file" : "/wax/vesting_moon/moon_project-prefix/src/moon_project-stamp/moon_project-mkdir.rule"
+		},
+		{
+			"file" : "/wax/vesting_moon/moon_project-prefix/src/moon_project-stamp/moon_project-download.rule"
+		},
+		{
+			"file" : "/wax/vesting_moon/moon_project-prefix/src/moon_project-stamp/moon_project-update.rule"
+		},
+		{
+			"file" : "/wax/vesting_moon/moon_project-prefix/src/moon_project-stamp/moon_project-patch.rule"
+		},
+		{
+			"file" : "/wax/vesting_moon/moon_project-prefix/src/moon_project-stamp/moon_project-configure.rule"
+		},
+		{
+			"file" : "/wax/vesting_moon/moon_project-prefix/src/moon_project-stamp/moon_project-build.rule"
+		},
+		{
+			"file" : "/wax/vesting_moon/moon_project-prefix/src/moon_project-stamp/moon_project-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"moon_project"
+		],
+		"name" : "moon_project"
+	}
+}

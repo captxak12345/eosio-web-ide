@@ -1,0 +1,14 @@
+# Target labels
+ moon_project
+# Source files and their labels
+/wax/vesting_moon/CMakeFiles/moon_project
+/wax/vesting_moon/CMakeFiles/moon_project.rule
+/wax/vesting_moon/CMakeFiles/moon_project-complete.rule
+/wax/vesting_moon/moon_project-prefix/src/moon_project-stamp/moon_project-install.rule
+/wax/vesting_moon/moon_project-prefix/src/moon_project-stamp/moon_project-mkdir.rule
+/wax/vesting_moon/moon_project-prefix/src/moon_project-stamp/moon_project-download.rule
+/wax/vesting_moon/moon_project-prefix/src/moon_project-stamp/moon_project-update.rule
+/wax/vesting_moon/moon_project-prefix/src/moon_project-stamp/moon_project-patch.rule
+/wax/vesting_moon/moon_project-prefix/src/moon_project-stamp/moon_project-configure.rule
+/wax/vesting_moon/moon_project-prefix/src/moon_project-stamp/moon_project-build.rule
+/wax/vesting_moon/moon_project-prefix/src/moon_project-stamp/moon_project-test.rule

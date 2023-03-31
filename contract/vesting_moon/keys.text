@@ -1,0 +1,49 @@
+{"msg": "succeeded", "keys": {"active_key": {"public": "EOS72tCA3y2neaAVQfCnMpsWbrZJRxm24RvAPwwCbzmJB1BVswjhU", "private": "5JjnyCAFJN8uXdjyGNoxfvcNtsk4R5QvoL2WV7M3M9D5g9K3Bg3"}, "owner_key": {"public": "EOS88ZxkmSP6etG66fsEwHxUvFgHA8B4NpAr8Z12PvncnbEqJjquB", "private": "5KjdNiKKujKVn4JUjFg2n9r7267ZtiFAYLbXxaXudJBgcSAdfiH"}}, "account": "apocvestpool"}
+
+cleos wallet create -n apocvestpool --to-console &&
+ cleos wallet import -n apocvestpool --private-key 5JjnyCAFJN8uXdjyGNoxfvcNtsk4R5QvoL2WV7M3M9D5g9K3Bg3 &&
+ cleos wallet import -n apocvestpool --private-key 5KjdNiKKujKVn4JUjFg2n9r7267ZtiFAYLbXxaXudJBgcSAdfiH
+
+cleos wallet open -n apocvestpool &&
+cleos wallet unlock -n apocvestpool --password PW5HtvZhLTpHeqb6mBT9TbTPoAbmxAChMNL94ZBqiYH4bTF2VMWTf
+
+
+{"msg": "succeeded", "keys": {"active_key": {"public": "EOS77LZangeT8hCSdhacnbnDbQrWMi9XX5M7epd2SC855D8tEn61V", "private": "5HzxdYxy7LPB2w3H5etre6hxLqQZWPjQWqn6mt7EuL52fyJjrHN"}, "owner_key": {"public": "EOS8Hnfo2DsCQsq6gDBpz7hrxw8dpPramF8WhtoghREMvSX48ZpBj", "private": "5KLmh5NfzL8n7Chua81P23mGDybLMfZ5tDWSpBk3y2yj3LjV429"}}, "account": "apoctokens12"}
+
+cleos wallet create -n apoctokens12 --to-console &&
+ cleos wallet import -n apoctokens12 --private-key 5HzxdYxy7LPB2w3H5etre6hxLqQZWPjQWqn6mt7EuL52fyJjrHN &&
+ cleos wallet import -n apoctokens12 --private-key 5KLmh5NfzL8n7Chua81P23mGDybLMfZ5tDWSpBk3y2yj3LjV429
+
+cleos wallet open -n apoctokens12 &&
+cleos wallet unlock -n apoctokens12 --password PW5JjxfbCkgm5xpGerS9ZVKKdcr6LbxMuvgNkciJVzeuRKYhzmiKs
+
+{"msg": "succeeded", "keys": {"active_key": {"public": "EOS6ymAcLjyyWoUeA9KsvNVegWqRNy8RuTSM9YuRR89wJf3MGNGGK", "private": "5KjNBQvVRCwiEgf9XjwGqjR5oFi9vrwthChxQopsgWKxygZVH3W"}, "owner_key": {"public": "EOS5hNtrSjQVLPBZgLYj6MRzMfgi6foHPYoRdZ9bQgSJKxvq4njFp", "private": "5K7Yqzb6HHpkTG8qf3r4ApDosMRqdHg1ca5WxwoFzrJqu4sZeqS"}}, "account": "apocinvestp1"}
+
+cleos wallet create -n apocinvestp1 --to-console &&
+ cleos wallet import -n apocinvestp1 --private-key 5KjNBQvVRCwiEgf9XjwGqjR5oFi9vrwthChxQopsgWKxygZVH3W &&
+ cleos wallet import -n apocinvestp1 --private-key 5K7Yqzb6HHpkTG8qf3r4ApDosMRqdHg1ca5WxwoFzrJqu4sZeqS
+
+cleos wallet open -n apocinvestp1 &&
+cleos wallet unlock -n apocinvestp1 --password PW5JEgZF65VBDPQdiLK5ECEKTH6GX8Lq8mWKCc1gvyj5GBr3tb8Tu
+
+
+{"msg": "succeeded", "keys": {"active_key": {"public": "EOS71Z5XPUKaxSywpRuPajjNRHUALVD4As1dtQjkPP6H9thZn8k42", "private": "5K3rX5u7FYQGwwEQCXMZ9tS5993uPyiNPvTfBG7M4XAjkAcwtcV"}, "owner_key": {"public": "EOS5YoPd1qXA8L8vjubUdNj43b3f1ScdBfuYePg759MfDkkRm3gWH", "private": "5J5kiRDfzTEvngocS8S6wna9wVpTY2ZN6q1Boj2oByHPSZX3dWx"}}, "account": "vestingmmhe3"}
+
+cleos wallet create -n vestingmmhe3 --to-console &&
+ cleos wallet import -n vestingmmhe3 --private-key 5K3rX5u7FYQGwwEQCXMZ9tS5993uPyiNPvTfBG7M4XAjkAcwtcV &&
+ cleos wallet import -n vestingmmhe3 --private-key 5J5kiRDfzTEvngocS8S6wna9wVpTY2ZN6q1Boj2oByHPSZX3dWx
+
+
+cleos wallet open -n vestingmmhe3 &&
+cleos wallet unlock -n vestingmmhe3 --password PW5J3atQoM25eZUNR1QLs1WkuR3NTpyURNVXoX5qZ3397RC8sWvQs
+
+{"msg": "succeeded", "keys": {"active_key": {"public": "EOS5ge74Ybs2PBNEDFoZpgwmg6nMg1hZoLTpz1tLAbHesS2osrdFw", "private": "5KSM4cCYX4Mz9GXD9MPKR1KXPzLPi1m6t8V6UbfDiDR9RuuF4Q4"}, "owner_key": {"public": "EOS8L2dDzbzpKumBoAQbkQRdKsx24hW8LSV9q36KrAear8UneU8ho", "private": "5KJqAsBz2yvNBy7Am6uruB7SRWh9t5prZTGtjixgBRzkqXexbzx"}}, "account": "tokensample1"}
+
+cleos wallet create -n tokensample1 --to-console &&
+ cleos wallet import -n tokensample1 --private-key 5KSM4cCYX4Mz9GXD9MPKR1KXPzLPi1m6t8V6UbfDiDR9RuuF4Q4 &&
+ cleos wallet import -n tokensample1 --private-key 5KJqAsBz2yvNBy7Am6uruB7SRWh9t5prZTGtjixgBRzkqXexbzx
+
+cleos wallet open -n tokensample1 &&
+cleos wallet unlock -n tokensample1 --password PW5KMXvgiKdi5nJ68edGu3ifA4GkQvtBa6cJMf1KK1wLSbyQ14rHs
+
+7imyXkwKXbsiqYgnXfNZw6XaszbsDjt2
